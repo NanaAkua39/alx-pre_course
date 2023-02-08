@@ -1,1 +1,1 @@
-My first readme
+Don't let readme be empty
